@@ -41,7 +41,6 @@ root.render(
   <table>
 
     <thead>
-      {/* <h1>Students</h1> */}
       <tr>
         <th>No.</th>
         <th>Company</th>

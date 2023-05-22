@@ -1,15 +1,17 @@
 import React from 'react';
-import ReactDOM from "react-dom/client";
+import ReactDOM from 'react-dom/client';
+import './index.css';
+import reportWebVitals from './reportWebVitals';
+import { BrowserRouter } from "react-router-dom";
+import App from "./App";
 
-const root = ReactDOM.createRoot(document.getElementById("root"));
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+    <>
+        <BrowserRouter>
+            <App />
+        </BrowserRouter>
+    </>
+);
 
-const tick = () => {
-  root.render(
-    <div>
-      <h1>Hello, world!</h1>
-      <h2>It is {new Date().toLocaleTimeString()}.</h2>
-    </div>
-  );
-};
-
-setInterval(tick, 1000);
+reportWebVitals();

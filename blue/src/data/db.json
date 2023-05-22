@@ -1,0 +1,113 @@
+{
+  "students": [
+    {
+      "id": 2,
+      "name": "Diễm XInhhhh",
+      "score": 8.7,
+      "studentType": {
+        "id": 1,
+        "name": "Lớp trưởng"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Vũ Thị Hương",
+      "score": 6.9,
+      "studentType": {
+        "id": 2,
+        "name": "Thành viên"
+      }
+    },
+    {
+      "id": 6,
+      "name": "HH Nôm",
+      "score": 7.8,
+      "studentType": {
+        "id": 1,
+        "name": "Lớp trưởng"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Đặng Văn Thắng",
+      "score": 9.2,
+      "studentType": {
+        "id": 2,
+        "name": "Thành viên"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Ngô Minh Tuấn",
+      "score": 5.5,
+      "studentType": {
+        "id": 2,
+        "name": "Thành viên"
+      }
+    },
+    {
+      "name": "Diễm hỉ",
+      "score": 2.1,
+      "id": 9,
+      "studentType": {
+        "id": 2,
+        "name": "Thành viên"
+      }
+    },
+    {
+      "name": "kuan nn",
+      "score": 10,
+      "studentType": {
+        "id": 1,
+        "name": "Lớp trưởng"
+      },
+      "id": 15
+    },
+    {
+      "name": "Vaannnnnnnn iu",
+      "score": 10,
+      "studentType": {
+        "id": 2,
+        "name": "Thành viên"
+      },
+      "id": 16
+    },
+    {
+      "name": "Vânnnnn",
+      "score": 10,
+      "studentType": {
+        "id": 2,
+        "name": "Thành viên"
+      },
+      "id": 17
+    },
+    {
+      "name": "Sỹ chos",
+      "score": 10,
+      "studentType": {
+        "id": 2,
+        "name": "Thành viên"
+      },
+      "id": 18
+    },
+    {
+      "name": "Sỹ chos",
+      "score": 10,
+      "studentType": {
+        "id": 1,
+        "name": "Lớp trưởng"
+      },
+      "id": 19
+    }
+  ],
+  "studentTypes": [
+    {
+      "id": 1,
+      "name": "Lớp trưởng"
+    },
+    {
+      "id": 2,
+      "name": "Thành viên"
+    }
+  ]
+}
